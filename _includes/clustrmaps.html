@@ -17,3 +17,19 @@
     height: 100%;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var globe = document.getElementById("clstr_globe");
+    var container = document.getElementById("clustrmaps-container");
+
+    function setGlobeSize() {
+      globe.style.width = container.offsetWidth + "px";
+      globe.style.height = container.offsetHeight + "px";
+    }
+
+    setGlobeSize(); // 初次设置大小
+
+    window.addEventListener("resize", setGlobeSize); // 监听窗口大小变化
+  });
+</script>
