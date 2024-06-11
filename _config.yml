@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yi Li (李逸)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Stay curious and have fun :D"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
