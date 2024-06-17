@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PersonalPicture.jpg"
   name             : "Yi Li (李逸)"
   pronouns         : # example: "she/her"  
   bio              : "Stay curious and have fun :D"
